@@ -4,11 +4,14 @@
   "description": "",
   "scripts": {
     "sass:dev": "sass --watch src/main.scss:dist/typography.css",
-    "sass:build": "sass src/main.scss:dist/typography.min.css --style compressed"
+    "sass:build": "sass src/main.scss:dist/typography.css",
+    "sass:build-minified": "sass src/main.scss:dist/typography.min.css --style compressed",
+    "prepare": "husky install"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "sass": "^1.54.9"
+    "sass": "^1.54.9",
+    "husky": "^8.0.0"
   }
 }
