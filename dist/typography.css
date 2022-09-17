@@ -1,0 +1,153 @@
+.b-typography__h1 {
+  font-family: "'Montserrat', sans-serif";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 96px;
+  line-height: 124px;
+  letter-spacing: -1.5px;
+}
+.b-typography__h2 {
+  font-family: "'Montserrat', sans-serif";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 80px;
+  letter-spacing: -0.5px;
+}
+.b-typography__h3 {
+  font-family: "'Montserrat', sans-serif";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 64px;
+  letter-spacing: 0.25px;
+}
+.b-typography__h4 {
+  font-family: "'Montserrat', sans-serif";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 40px;
+  letter-spacing: 0.5px;
+}
+.b-typography__h5 {
+  font-family: "'Montserrat', sans-serif";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0.25px;
+}
+.b-typography__h6 {
+  font-family: "'Montserrat', sans-serif";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0.25px;
+}
+.b-typography__subtitle-1 {
+  font-family: "'Montserrat', sans-serif";
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.25px;
+}
+.b-typography__subtitle-1--medium {
+  font-weight: 600;
+}
+.b-typography__subtitle-1--reguler {
+  font-weight: 500;
+}
+.b-typography__subtitle-2 {
+  font-family: "'Montserrat', sans-serif";
+  font-style: normal;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+}
+.b-typography__subtitle-2--medium {
+  font-weight: 600;
+}
+.b-typography__subtitle-2--reguler {
+  font-weight: 500;
+}
+.b-typography__subtitle-3 {
+  font-family: "'Montserrat', sans-serif";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.25px;
+}
+.b-typography__subtitle-3--medium {
+  font-weight: 600;
+}
+.b-typography__body-1 {
+  font-family: "'Open Sans', sans-serif";
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+}
+.b-typography__body-1--medium {
+  font-weight: 600;
+}
+.b-typography__body-1--reguler {
+  font-weight: 400;
+}
+.b-typography__body-2 {
+  font-family: "'Open Sans', sans-serif";
+  font-style: normal;
+  font-size: 14px;
+  line-height: 20px;
+}
+.b-typography__body-2--medium {
+  font-weight: 600;
+}
+.b-typography__body-2--reguler {
+  font-weight: 400;
+}
+.b-typography__body-3 {
+  font-family: "'Open Sans', sans-serif";
+  font-style: normal;
+  font-size: 12px;
+  line-height: 16px;
+}
+.b-typography__body-3--medium {
+  font-weight: 600;
+}
+.b-typography__body-3--reguler {
+  font-weight: 400;
+}
+.b-typography__button {
+  font-family: "'Montserrat', sans-serif";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  text-transform: capitalize;
+}
+.b-typography__caption {
+  font-family: "'Montserrat', sans-serif";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.25px;
+}
+.b-typography__caption--small {
+  font-size: 10px;
+  line-height: 12px;
+}
+.b-typography__overline {
+  font-family: "'Open Sans', sans-serif";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+/*# sourceMappingURL=typography.css.map */

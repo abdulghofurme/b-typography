@@ -1,0 +1,14 @@
+{
+  "name": "b-typography",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "sass:dev": "sass --watch src/main.scss:dist/typography.css",
+    "sass:build": "sass src/main.scss:dist/typography.min.css --style compressed"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.54.9"
+  }
+}
