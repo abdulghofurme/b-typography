@@ -1,30 +1,30 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&family=Open+Sans:wght@400;600&display=swap");
 .b-typography__h1 {
-  font: normal 600 96px/124px "'Montserrat', sans-serif";
+  font: normal 600 96px/124px "Montserrat", sans-serif;
   letter-spacing: -1.5px;
 }
 .b-typography__h2 {
-  font: normal 600 60px/80px "'Montserrat', sans-serif";
+  font: normal 600 60px/80px "Montserrat", sans-serif;
   letter-spacing: -0.5px;
 }
 .b-typography__h3 {
-  font: normal 600 48px/64px "'Montserrat', sans-serif";
+  font: normal 600 48px/64px "Montserrat", sans-serif;
   letter-spacing: 0.25px;
 }
 .b-typography__h4 {
-  font: normal 600 30px/40px "'Montserrat', sans-serif";
+  font: normal 600 30px/40px "Montserrat", sans-serif;
   letter-spacing: 0.5px;
 }
 .b-typography__h5 {
-  font: normal 600 24px/32px "'Montserrat', sans-serif";
+  font: normal 600 24px/32px "Montserrat", sans-serif;
   letter-spacing: 0.25px;
 }
 .b-typography__h6 {
-  font: normal 600 20px/28px "'Montserrat', sans-serif";
+  font: normal 600 20px/28px "Montserrat", sans-serif;
   letter-spacing: 0.25px;
 }
 .b-typography__subtitle-1 {
-  font: normal 16px/24px "'Montserrat', sans-serif";
+  font: normal 16px/24px "Montserrat", sans-serif;
   letter-spacing: 0.25px;
 }
 .b-typography__subtitle-1--medium {
@@ -34,7 +34,7 @@
   font-weight: 500;
 }
 .b-typography__subtitle-2 {
-  font: normal 14px/20px "'Montserrat', sans-serif";
+  font: normal 14px/20px "Montserrat", sans-serif;
   letter-spacing: 0.25px;
 }
 .b-typography__subtitle-2--medium {
@@ -44,14 +44,14 @@
   font-weight: 500;
 }
 .b-typography__subtitle-3 {
-  font: normal 12px/16px "'Montserrat', sans-serif";
+  font: normal 12px/16px "Montserrat", sans-serif;
   letter-spacing: 0.25px;
 }
 .b-typography__subtitle-3--medium {
   font-weight: 600;
 }
 .b-typography__body-1 {
-  font: normal 16px/24px "'Open Sans', sans-serif";
+  font: normal 16px/24px "Open Sans", sans-serif;
 }
 .b-typography__body-1--medium {
   font-weight: 600;
@@ -60,7 +60,7 @@
   font-weight: 400;
 }
 .b-typography__body-2 {
-  font: normal 14px/20px "'Open Sans', sans-serif";
+  font: normal 14px/20px "Open Sans", sans-serif;
 }
 .b-typography__body-2--medium {
   font-weight: 600;
@@ -69,7 +69,7 @@
   font-weight: 400;
 }
 .b-typography__body-3 {
-  font: normal 12px/16px "'Open Sans', sans-serif";
+  font: normal 12px/16px "Open Sans", sans-serif;
 }
 .b-typography__body-3--medium {
   font-weight: 600;
@@ -78,12 +78,12 @@
   font-weight: 400;
 }
 .b-typography__button {
-  font: normal 600 14px/20px "'Montserrat', sans-serif";
+  font: normal 600 14px/20px "Montserrat", sans-serif;
   letter-spacing: 0.25px;
   text-transform: capitalize;
 }
 .b-typography__caption {
-  font: normal 500 12px/16px "'Montserrat', sans-serif";
+  font: normal 500 12px/16px "Montserrat", sans-serif;
   letter-spacing: 0.25px;
 }
 .b-typography__caption--small {
@@ -91,7 +91,7 @@
   line-height: 12px;
 }
 .b-typography__overline {
-  font: normal 600 12px/16px "'Open Sans', sans-serif";
+  font: normal 600 12px/16px "Open Sans", sans-serif;
   letter-spacing: 2px;
   text-transform: uppercase;
 }
