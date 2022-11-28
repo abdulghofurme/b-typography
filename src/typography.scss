@@ -1,0 +1,140 @@
+@import "variables.scss";
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&family=Open+Sans:wght@400;600&display=swap");
+
+.b-typography {
+  &__h1 {
+    font: $h1_font;
+    letter-spacing: $h1_letter-spacing;
+  }
+
+  &__h2 {
+    font: $h2_font;
+    letter-spacing: $h2_letter-spacing;
+  }
+
+  &__h3 {
+    font: $h3_font;
+    letter-spacing: $h3_letter-spacing;
+  }
+
+  &__h4 {
+    font: $h4_font;
+    letter-spacing: $h4_letter-spacing;
+  }
+
+  &__h5 {
+    font: $h5_font;
+    letter-spacing: $h5_letter-spacing;
+  }
+
+  &__h6 {
+    font: $h6_font;
+    letter-spacing: $h6_letter-spacing;
+  }
+
+  &__subtitle-1 {
+    font: $subtitle-1_font;
+    letter-spacing: $subtitle-1_letter-spacing;
+
+    &--medium {
+      @extend .b-typography__subtitle-1;
+      font-weight: $subtitle-1--medium_font-weight;
+    }
+
+    &--reguler {
+      @extend .b-typography__subtitle-1;
+      font-weight: $subtitle-1--reguler_font-weight;
+    }
+  }
+
+  &__subtitle-2 {
+    font: $subtitle-2_font;
+    letter-spacing: $subtitle-2_letter-spacing;
+
+    &--medium {
+      @extend .b-typography__subtitle-2;
+      font-weight: $subtitle-2--medium_font-weight;
+    }
+
+    &--reguler {
+      @extend .b-typography__subtitle-2;
+      font-weight: $subtitle-2--reguler_font-weight;
+    }
+  }
+
+  &__subtitle-3 {
+    font: $subtitle-3_font;
+    letter-spacing: $subtitle-3_letter-spacing;
+
+    &--medium {
+      @extend .b-typography__subtitle-3;
+      font-weight: $subtitle-3--medium_font-weight;
+    }
+  }
+
+  &__body-1 {
+    font: $body-1_font;
+
+    &--medium {
+      @extend .b-typography__body-1;
+      font-weight: $body-1--medium_font-weight;
+    }
+
+    &--reguler {
+      @extend .b-typography__body-1;
+      font-weight: $body-1--reguler_font-weight;
+    }
+  }
+
+  &__body-2 {
+    font: $body-2_font;
+
+    &--medium {
+      @extend .b-typography__body-2;
+      font-weight: $body-2--medium_font-weight;
+    }
+
+    &--reguler {
+      @extend .b-typography__body-2;
+      font-weight: $body-2--reguler_font-weight;
+    }
+  }
+
+  &__body-3 {
+    font: $body-3_font;
+
+    &--medium {
+      @extend .b-typography__body-3;
+      font-weight: $body-3--medium_font-weight;
+    }
+
+    &--reguler {
+      @extend .b-typography__body-3;
+      font-weight: $body-3--reguler_font-weight;
+    }
+  }
+
+  &__button {
+    font: $button_font;
+    letter-spacing: $button_letter-spacing;
+    text-transform: $button_text-transform;
+  }
+
+  &__caption {
+    font: $caption_font;
+    letter-spacing: $caption_letter-spacing;
+
+    &--small {
+      @extend .b-typography__caption;
+      font-size: $caption--small_font-size;
+      line-height: $caption--small_line-height;
+    }
+  }
+
+  &__overline {
+    font: $overline_font;
+    letter-spacing: $overline_letter-spacing;
+    text-transform: $overline_text-transform;
+  }
+}

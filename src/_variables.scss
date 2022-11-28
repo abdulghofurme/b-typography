@@ -1,2 +1,70 @@
-$Montserrat: 'Montserrat', sans-serif;
-$OpenSans: 'Open Sans', sans-serif;
+$Montserrat: "Montserrat", sans-serif;
+$OpenSans: "Open Sans", sans-serif;
+
+$h1_font: normal 600 96px/124px $Montserrat;
+$h1_letter-spacing: -1.5px;
+
+$h2_font: normal 600 60px/80px $Montserrat;
+$h2_letter-spacing: -0.5px;
+
+$h3_font: normal 600 48px/64px $Montserrat;
+$h3_letter-spacing: 0.25px;
+
+$h4_font: normal 600 30px/40px $Montserrat;
+$h4_letter-spacing: 0.5px;
+
+$h5_font: normal 600 24px/32px $Montserrat;
+$h5_letter-spacing: 0.25px;
+
+$h6_font: normal 600 20px/28px $Montserrat;
+$h6_letter-spacing: 0.25px;
+
+$subtitle-1_font: normal 16px/24px $Montserrat;
+$subtitle-1_letter-spacing: 0.25px;
+
+$subtitle-1--medium_font-weight: 600;
+
+$subtitle-1--reguler_font-weight: 500;
+
+$subtitle-2_font: normal 14px/20px $Montserrat;
+$subtitle-2_letter-spacing: 0.25px;
+
+$subtitle-2--medium_font-weight: 600;
+$subtitle-2--reguler_font-weight: 500;
+
+$subtitle-3_font: normal 12px/16px $Montserrat;
+$subtitle-3_letter-spacing: 0.25px;
+
+$subtitle-3--medium_font-weight: 600;
+
+$body-1_font: normal 16px/24px $OpenSans;
+
+$body-1--medium_font-weight: 600;
+
+$body-1--reguler_font-weight: 400;
+
+$body-2_font: normal 14px/20px $OpenSans;
+
+$body-2--medium_font-weight: 600;
+
+$body-2--reguler_font-weight: 400;
+
+$body-3_font: normal 12px/16px $OpenSans;
+
+$body-3--medium_font-weight: 600;
+
+$body-3--reguler_font-weight: 400;
+
+$button_font: normal 600 14px/20px $Montserrat;
+$button_letter-spacing: 0.25px;
+$button_text-transform: capitalize;
+
+$caption_font: normal 500 12px/16px $Montserrat;
+$caption_letter-spacing: 0.25px;
+
+$caption--small_font-size: 10px;
+$caption--small_line-height: 12px;
+
+$overline_font: normal 600 12px/16px $OpenSans;
+$overline_letter-spacing: 2px;
+$overline_text-transform: uppercase;
